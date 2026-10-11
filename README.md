@@ -1,0 +1,3 @@
+# AiStockTradingSim
+
+Project repository.
